@@ -1,8 +1,8 @@
 var textNode;
 const walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT,null,false);
-const rExp = new RegExp('Merci');
-const mExp = new RegExp('merci');
-const pExp = new RegExp('MERCI');
+const rExp = new RegExp('Merci', 'gi');
+const mExp = new RegExp('merci', 'gi');
+const pExp = new RegExp('MERCI', 'gi');
 
 while(textNode=walk.nextNode()) {
   textNode.nodeValue = textNode.nodeValue.replace(rExp, '🤙 É mercé hein 🤙');
