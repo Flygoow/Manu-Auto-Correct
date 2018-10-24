@@ -1,11 +1,7 @@
-# Manu Auto Correct
+# É mercé Correcteur
 
-Bon alors déjà c'est M. Le Président.
+É mercé hein 🤙
 
-![OSS 117](oss.jpg)
-
-Le meilleur moyen d'utiliser cette extension est de passer par le [Chrome Webstore](https://chrome.google.com/webstore/detail/manu-auto-correct/eamgamedjemopbnggghghnciejnbdpoe)
-
-![Manu](manu.png)
+Gardez votre navigateur super cool avec le É mercé correcteur ! Téléchargez le ici : [Chrome Webstore](https://chrome.google.com/webstore/detail/manu-auto-correct/eamgamedjemopbnggghghnciejnbdpoe)
 
 Vous pouvez aussi télécharger ce dépot et le charger comme "unpacked extension" dans Chrome
