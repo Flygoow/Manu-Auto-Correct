@@ -1,10 +1,10 @@
 {
-  "name": "Manu Auto Correct",
-  "version": "0.3",
+  "name": "É mercé correcteur",
+  "version": "0.1",
   "manifest_version": 2,
-  "description": "Bon alors déjà c'est M. Le Président",
+  "description": "É mercé hein",
   "icons": {
-    "128": "128.png"
+    "128": "icon.png"
   },
   "content_scripts": [
     {
